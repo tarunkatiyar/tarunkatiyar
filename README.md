@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunkatiyar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on in coding
+- 💞️ I’m looking to collaborate in coding
 - 📫 How to reach me - mail me @tarunkatiyar777@gmail.com
 
 <!---
